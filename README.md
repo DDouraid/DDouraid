@@ -6,6 +6,7 @@
 🔍 Passionate about **building scalable applications**, **securing networks**, and **analyzing data**.  
 💡 Always learning, experimenting, and pushing boundaries in **Software Engineering, AI, and Cybersecurity**.  
 
+![Douraid's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DDouraid&theme=radical)
 
 ---
 
