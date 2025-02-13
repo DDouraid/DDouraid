@@ -5,16 +5,7 @@
 
 🔍 Passionate about **building scalable applications**, **securing networks**, and **analyzing data**.  
 💡 Always learning, experimenting, and pushing boundaries in **Software Engineering, AI, and Cybersecurity**.  
-<!-- Header with Typing Animation -->
-<h1 align="center">Hi, I'm Douraid Dridi! 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+%26+Cybersecurity+Enthusiast;Big+Data+%26+Cloud+Explorer;Always+Building+Something+Cool!">
-</p>
 
-<!-- Cool GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
-</p>
 ---
 
 ## 🔥 About Me  
