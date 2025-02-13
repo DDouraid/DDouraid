@@ -66,8 +66,8 @@
 
 ## 📬 Let's Connect  
 💼 [LinkedIn](#) | 📝 [Portfolio](#) | ✉️ [Email](#)  
-
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlVjZaV7B5XwTOw/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="300">
 </p>
+
 🚀 _Building, learning, and securing the future one project at a time!_  
