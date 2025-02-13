@@ -68,6 +68,6 @@
 💼 [LinkedIn](#) | 📝 [Portfolio](#) | ✉️ [Email](#)  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI5FqYpbN6cM7p6/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/l0HlVjZaV7B5XwTOw/giphy.gif" width="300">
 </p>
 🚀 _Building, learning, and securing the future one project at a time!_  
