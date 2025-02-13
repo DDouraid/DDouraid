@@ -5,6 +5,9 @@
 
 🔍 Passionate about **building scalable applications**, **securing networks**, and **analyzing data**.  
 💡 Always learning, experimenting, and pushing boundaries in **Software Engineering, AI, and Cybersecurity**.  
+<p align="center">
+  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="300">
+</p>
 
 ---
 
