@@ -1,4 +1,6 @@
 ### 👋 Hey, I'm Douraid Dridi!  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full-Stack+Developer;AI+%26+Cybersecurity+Enthusiast;Big+Data+%26+Cloud+Explorer)
+
 🚀 **Full-Stack Developer | Cybersecurity Enthusiast | AI & Big Data Explorer**  
 
 🔍 Passionate about **building scalable applications**, **securing networks**, and **analyzing data**.  
