@@ -5,7 +5,14 @@
 
 🔍 Passionate about **building scalable applications**, **securing networks**, and **analyzing data**.  
 💡 Always learning, experimenting, and pushing boundaries in **Software Engineering, AI, and Cybersecurity**.  
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=Full-Stack+Developer;AI+%26+Cybersecurity+Enthusiast;Big+Data+%26+Cloud+Explorer;Always+Learning+New+Things!">
+</p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</div>
 ---
 
 ## 🔥 About Me  
